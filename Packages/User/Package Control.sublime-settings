@@ -1,0 +1,11 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"FileDiffs",
+		"HighlightWords",
+		"Sass",
+		"TodoReview"
+	]
+}

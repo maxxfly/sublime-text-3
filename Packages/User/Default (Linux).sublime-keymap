@@ -1,0 +1,6 @@
+[
+	{
+        "keys": ["ctrl+alt+super+v"],
+        "command": "bh_toggle_high_visibility"
+    }
+]
